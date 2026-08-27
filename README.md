@@ -2,7 +2,7 @@
 
 ![Rust](https://img.shields.io/badge/Rust-1.95.0-orange.svg)
 ![Minecraft](https://img.shields.io/badge/Minecraft-26.1.2-green.svg)
-![License](https://img.shields.io/badge/License-GNU%20GPL-blue)
+![License](https://img.shields.io/badge/License-GNU%20GPL-blue) 
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey.svg)
 
 A Minecraft hacked client built in Rust, using JNI (Java Native Interface) for seamless integration with Minecraft's Java runtime. DarkClient provides a robust architecture for developing game modifications through dynamic library injection.
